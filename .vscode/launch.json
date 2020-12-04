@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "file:///C:/Users/syste/Desktop/SYS%20-%20IMP%20AI/Trans/Simple.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "pwa-chrome",
+            "name": "file:///C:/Users/syste/Desktop/SYS%20-%20IMP%20AI/Trans/SYS_EN-ES_trans.js",
+            "request": "launch",
+            "url": "file:///C:/Users/syste/Desktop/SYS%20-%20IMP%20AI/Trans/SYS_EN-ES_trans.js",
+        }
+    ]
+}
