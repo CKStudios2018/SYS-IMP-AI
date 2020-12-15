@@ -9,7 +9,11 @@ class bcolors:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 
+print(bcolors.HEADER + "SYStemware logs (for IMP AI v.1.7+)" + bcolors.ENDC)
 print("CKStudios")
 print("CKStudios2003")
 print("CKStudios2018")
 print("CKS")
+print(bcolors.OKCYAN + "SYS IMP AI v.1.8" + bcolors.ENDC)
+print(bcolors.WARNING + "SYStemware Overloading" + bcolors.ENDC)
+print(f"{bcolors.WARNING}Warning: No active frommets remain. Continue?{bcolors.ENDC}")
